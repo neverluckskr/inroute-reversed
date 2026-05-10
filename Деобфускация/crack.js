@@ -24,6 +24,9 @@ for (const file of files) {
     content = content.replace(/Performance\["now"\]/g, 'performance["now"]');
     content = content.replace(/Performance\.now/g, 'performance.now');
     
+    content = content.replace(/([a-zA-Z0-9_]+)\["Erxywh"\]/g, '(Array.isArray($1["Erxywh"]) ? $1["Erxywh"] : [])');
+    content = content.replace(/([a-zA-Z0-9_]+)\["u4rSKs"\]/g, '(typeof $1["u4rSKs"] === "function" ? $1["u4rSKs"] : function(){})');
+    
     if (file.type === "popup") {
         content = content.replace(
             /\(wcjgw_\.nJqAz3K\s*=\s*async\s+function\s+jb3COY\(\[uAuQa3C\],\s*LQn0JNs\)\s*\{/,
