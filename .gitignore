@@ -1,0 +1,15 @@
+node_modules/
+*.pem
+InRoute_Cracked/
+html/
+pump/
+manifest.json
+popup.html
+LICENSE.txt
+Деобфускация/output/*.deob.js
+Деобфускация/output/*.final.js
+Деобфускация/output/*.v2.js
+Деобфускация/output/*.readable.js
+Thumbs.db
+.DS_Store
+desktop.ini

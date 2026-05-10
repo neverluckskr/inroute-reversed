@@ -1,0 +1,24 @@
+═══════════════════════════════════════════
+  InRoute Cracked — Установка на телефон
+═══════════════════════════════════════════
+
+Обычный Chrome НЕ поддерживает расширения на телефоне!
+Нужен Kiwi Browser (Android).
+
+1. Скачай Kiwi Browser из Google Play:
+   https://play.google.com/store/apps/details?id=com.kiwibrowser.browser
+
+2. Открой Kiwi Browser → введи в адресную строку:
+   chrome://extensions/
+
+3. Включи «Режим разработчика» (Developer mode)
+
+4. Нажми «Load» или «(from .crx/.user.js/web store)»
+
+5. Выбери файл InRoute_Cracked.crx
+
+6. Готово! Введи любой токен и нажми «Увійти»
+
+⚠ На iOS (iPhone/iPad) расширения Chrome НЕ работают вообще.
+
+═══════════════════════════════════════════

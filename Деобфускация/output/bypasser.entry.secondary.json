@@ -1,0 +1,62 @@
+{
+  "n9c2tTJ": {
+    "FuRBX5": {
+      "t": "undefined"
+    },
+    "7UJ9Zf": {
+      "t": "undefined"
+    },
+    "krl2Ve": {
+      "t": "boolean",
+      "v": "true"
+    },
+    "WCN1aM": {
+      "t": "undefined"
+    },
+    "yMSl9p": {
+      "t": "undefined"
+    },
+    "bC3t5U": {
+      "t": "error",
+      "v": "TypeError: Cannot read properties of undefined (reading 'requestFullscreen')"
+    },
+    "ZjnkjM": {
+      "t": "error",
+      "v": "TypeError: dixeuL[lXJV3b.viHiQ9F[46]][AFf5QrA] is not iterable"
+    }
+  },
+  "RdjLazb": {
+    "INH5c2": {
+      "t": "function",
+      "v": "function Object() { [native code] }"
+    },
+    "X2k5sp": {
+      "t": "object",
+      "v": "crypto"
+    },
+    "wVSB3u": {
+      "t": "object",
+      "v": "document"
+    },
+    "C2Blod": {
+      "t": "object",
+      "v": "window"
+    },
+    "rXiJ_h": {
+      "t": "object",
+      "v": "Math"
+    },
+    "LRw7rO": {
+      "t": "object",
+      "v": "console"
+    },
+    "nA9SEx_": {
+      "t": "function",
+      "v": "function Error() { [native code] }"
+    },
+    "lgm8iev": {
+      "t": "function",
+      "v": "function Document() { [native code] }"
+    }
+  }
+}

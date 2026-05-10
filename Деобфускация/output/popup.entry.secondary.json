@@ -1,0 +1,163 @@
+{
+  "eWRt3tn": {
+    "pOnlx1": {
+      "t": "function",
+      "v": "function Error() { [native code] }"
+    },
+    "VSXfre": {
+      "t": "function",
+      "v": "function Object() { [native code] }"
+    },
+    "vzOzx3": {
+      "t": "object",
+      "v": "window"
+    },
+    "CcC8uI": {
+      "t": "function",
+      "v": "function RegExp() { [native code] }"
+    },
+    "iOX9C2": {
+      "t": "function",
+      "v": "function Response() { [native code] }"
+    },
+    "dNVMgW": {
+      "t": "object",
+      "v": "document"
+    },
+    "b1iOCpB": {
+      "t": "object",
+      "v": "chrome"
+    },
+    "Ev4UTE": {
+      "t": "object",
+      "v": "crypto"
+    },
+    "rZhIkM": {
+      "t": "function",
+      "v": "function TextEncoder() { [native code] }"
+    },
+    "z9ZYtx": {
+      "t": "function",
+      "v": "function Array() { [native code] }"
+    },
+    "O16BawF": {
+      "t": "function",
+      "v": "function Uint8Array() { [native code] }"
+    },
+    "R424G4": {
+      "t": "object",
+      "v": "console"
+    },
+    "fUDszk": {
+      "t": "object",
+      "v": "JSON"
+    },
+    "RQAAGjt": {
+      "t": "function",
+      "v": "function Promise() { [native code] }"
+    },
+    "AzTUVFT": {
+      "t": "function",
+      "v": "function Number() { [native code] }"
+    },
+    "UGUotVQ": {
+      "t": "object",
+      "v": "Math"
+    },
+    "KzbKu42": {
+      "t": "function",
+      "v": "function setTimeout() { [native code] }"
+    },
+    "tiSIV7": {
+      "t": "function",
+      "v": "function String() { [native code] }"
+    },
+    "mWj_MUF": {
+      "t": "function",
+      "v": "function Date() { [native code] }"
+    },
+    "XQdGZkO": {
+      "t": "function",
+      "v": "function Function() { [native code] }"
+    },
+    "AEAkcY": {
+      "t": "function",
+      "v": "function requestAnimationFrame() { [native code] }"
+    },
+    "nE45a3": {
+      "t": "function",
+      "v": "function DataView() { [native code] }"
+    },
+    "fZajrq": {
+      "t": "function",
+      "v": "function clearTimeout() { [native code] }"
+    },
+    "WhgSLCD": {
+      "t": "function",
+      "v": "function Proxy() { [native code] }"
+    },
+    "tIhGna": {
+      "t": "function",
+      "v": "function ArrayBuffer() { [native code] }"
+    },
+    "zU00Zq": {
+      "t": "function",
+      "v": "function URL() { [native code] }"
+    },
+    "S6YTabp": {
+      "t": "function",
+      "v": "function AbortController() { [native code] }"
+    }
+  },
+  "O9Zi99": {
+    "XJwiPy": {
+      "t": "boolean",
+      "v": "true"
+    },
+    "E94eel": {
+      "t": "boolean",
+      "v": "true"
+    },
+    "tiihzP": {
+      "t": "boolean",
+      "v": "false"
+    },
+    "57gftU": {
+      "t": "error",
+      "v": "TypeError: Cannot read properties of undefined (reading 'length')"
+    },
+    "zyg0Tt": {
+      "t": "error",
+      "v": "TypeError: jb3COY[gQchYe4.wcjgw_._vyhog[1]][LQn0JNs(...)] is not a constructor"
+    },
+    "lZO6Pm": {
+      "t": "undefined"
+    },
+    "lk12Yd": {
+      "t": "error",
+      "v": "TypeError: Cannot read properties of undefined (reading 'undefined')"
+    },
+    "xG39LV": {
+      "t": "boolean",
+      "v": "false"
+    },
+    "Oldtrn": {
+      "t": "boolean",
+      "v": "false"
+    },
+    "JykOcg": {
+      "t": "error",
+      "v": "TypeError: jb3COY[(-gQchYe4.wcjgw_._vyhog[57])][LQn0JNs(...)] is not a function"
+    },
+    "fBjfm5": {
+      "t": "undefined"
+    },
+    "hXJ9AN": {
+      "t": "undefined"
+    },
+    "N2XSfj": {
+      "t": "error",
+      "v": "TypeError: jb3COY[(1 , wBBdCF)] is not iterable"
+    }
+  }
+}

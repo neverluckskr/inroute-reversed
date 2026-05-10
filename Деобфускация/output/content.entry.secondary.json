@@ -1,0 +1,385 @@
+{
+  "qFNLim0": {
+    "sabcr5": {
+      "t": "error",
+      "v": "TypeError: Cannot read properties of undefined (reading 'statusEnabled')"
+    },
+    "AlmeUH": {
+      "t": "error",
+      "v": "TypeError: Cannot read properties of undefined (reading 'statusEnabled')"
+    },
+    "Yh7RvP": {
+      "t": "error",
+      "v": "TypeError: JQnwtw8.PS0bMb[(1 , YSOU0Sf.gdMPRPO)(...)] is not a function"
+    },
+    "4FmHbH": {
+      "t": "error",
+      "v": "TypeError: nmo1lo[(1 , YSOU0Sf.gdMPRPO)] is not iterable"
+    },
+    "psaPko": {
+      "t": "error",
+      "v": "TypeError: nmo1lo[yVDuX4.JR5NBN[22]][(1 , YSOU0Sf.gdMPRPO)(...)] is not a function"
+    },
+    "AipGJt": {
+      "t": "error",
+      "v": "TypeError: Cannot read properties of undefined (reading 'gui')"
+    },
+    "j6JwYS": {
+      "t": "undefined"
+    },
+    "YwhckG": {
+      "t": "undefined"
+    },
+    "mQcjFL": {
+      "t": "object",
+      "v": "[Promise]"
+    },
+    "JzMQ41": {
+      "t": "object",
+      "v": "[Promise]"
+    },
+    "7UUwqo": {
+      "t": "error",
+      "v": "TypeError: nmo1lo[yVDuX4.JR5NBN[2]][(1 , YSOU0Sf.gdMPRPO)(...)] is not a function"
+    },
+    "ZwE4KI": {
+      "t": "string",
+      "v": "quiz"
+    },
+    "6gUREn": {
+      "t": "object",
+      "v": "[Array]"
+    },
+    "S1ULpg": {
+      "t": "string",
+      "v": ""
+    },
+    "cqXrjU": {
+      "t": "undefined"
+    },
+    "cxefcb": {
+      "t": "error",
+      "v": "TypeError: nmo1lo[yVDuX4.JR5NBN[258]][(1 , YSOU0Sf.gdMPRPO)(...)] is not a function"
+    },
+    "IzG0OI": {
+      "t": "undefined"
+    },
+    "kIoQx3": {
+      "t": "error",
+      "v": "TypeError: nmo1lo[(-yVDuX4.JR5NBN[416])][(1 , YSOU0Sf.gdMPRPO)(...)] is not a function"
+    },
+    "s5FCDx": {
+      "t": "object",
+      "v": "[Array]"
+    },
+    "AUUll3": {
+      "t": "object",
+      "v": "[Array]"
+    },
+    "k34AX7": {
+      "t": "object",
+      "v": "[Array]"
+    },
+    "YnOwLB": {
+      "t": "object",
+      "v": "[Array]"
+    },
+    "IiyDVf": {
+      "t": "error",
+      "v": "TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."
+    },
+    "ViVfib": {
+      "t": "undefined"
+    },
+    "ZtxgPK": {
+      "t": "undefined"
+    },
+    "Rjwx16": {
+      "t": "undefined"
+    },
+    "gtmJ9Y": {
+      "t": "object",
+      "v": "[Array]"
+    },
+    "b6ID9u": {
+      "t": "error",
+      "v": "TypeError: nmo1lo[(1 , YSOU0Sf.gdMPRPO)(...)] is not a function"
+    },
+    "xxT9uF": {
+      "t": "object",
+      "v": "[Array]"
+    },
+    "kEeHmw": {
+      "t": "string",
+      "v": "You are solving a True/False question on vseosvita.ua.\nLast line must be exactly: FINAL_ANSWER: TRUE or FINAL_ANSWER: FALSE\n\n  QUESTION: undefined\n \n  MANDATORY: Output EXACTLY \"FINAL_ANSWER: TRUE\" or \"FINAL_ANSWER: FALSE\" as the ABSOLUTE last line.\n  FINAL_ANSWER: "
+    },
+    "MUuepr": {
+      "t": "error",
+      "v": "TypeError: Cannot read properties of undefined (reading 'map')"
+    },
+    "NKCjnn": {
+      "t": "error",
+      "v": "TypeError: Cannot read properties of undefined (reading 'map')"
+    },
+    "dUkgk5": {
+      "t": "string",
+      "v": "You are filling in blank(s) in a vseosvita.ua test.\nTEXT (blanks marked as [_____]):\nundefined\n\nFill each blank with the correct answer. The answer should be concise, ideally 1-2 words. Separate multiple answers with comma.\n  Last line: FINAL_ANSWER: answer\n  MANDATORY: Output FINAL_ANSWER: ... as the absolute last line.\n\n  FINAL_ANSWER: "
+    },
+    "em1rzg": {
+      "t": "error",
+      "v": "TypeError: Cannot read properties of undefined (reading 'map')"
+    },
+    "CIa7bo": {
+      "t": "error",
+      "v": "TypeError: Cannot read properties of undefined (reading 'matchAll')"
+    },
+    "1HSUz7": {
+      "t": "undefined"
+    },
+    "wgHxep": {
+      "t": "undefined"
+    },
+    "akROUQ": {
+      "t": "undefined"
+    },
+    "iTicTr": {
+      "t": "undefined"
+    },
+    "Ysodw5": {
+      "t": "undefined"
+    },
+    "9P65Tn": {
+      "t": "object",
+      "v": "[Array]"
+    },
+    "KT3lrx": {
+      "t": "error",
+      "v": "TypeError: DmABGu[(1 , YSOU0Sf.gdMPRPO)] is not iterable"
+    },
+    "pKfuq1": {
+      "t": "object",
+      "v": "[Object]"
+    },
+    "9SgZHH": {
+      "t": "object",
+      "v": "[Object]"
+    },
+    "olOhRb": {
+      "t": "undefined"
+    },
+    "uXVevW": {
+      "t": "undefined"
+    },
+    "FeLkrY": {
+      "t": "error",
+      "v": "TypeError: Cannot read properties of undefined (reading 'push')"
+    },
+    "NPo1rF": {
+      "t": "error",
+      "v": "TypeError: nmo1lo[yVDuX4.JR5NBN[(CVpIgIm + 20)]][(1 , UvDXYZ)] is not iterable"
+    },
+    "GaHrhl": {
+      "t": "error",
+      "v": "TypeError: _ZO3hO[(1 , yVDuX4.c96YSn)(...)] is not a function"
+    },
+    "F2oSnw": {
+      "t": "object",
+      "v": "[Array]"
+    },
+    "j9aEjT": {
+      "t": "string",
+      "v": "quiz"
+    },
+    "Yk9DEi": {
+      "t": "string",
+      "v": ""
+    },
+    "ngF856": {
+      "t": "null"
+    },
+    "jmS8Hl": {
+      "t": "null"
+    },
+    "PZ1Aku": {
+      "t": "error",
+      "v": "TypeError: Cannot read properties of undefined (reading 'style')"
+    },
+    "W7DixG": {
+      "t": "undefined"
+    },
+    "evzBsD": {
+      "t": "error",
+      "v": "TypeError: nmo1lo[yVDuX4.JR5NBN[321]][(1 , YSOU0Sf.gdMPRPO)(...)] is not a function"
+    },
+    "lnRv0p": {
+      "t": "error",
+      "v": "TypeError: nmo1lo[(-yVDuX4.JR5NBN[120])][(1 , YSOU0Sf.gdMPRPO)(...)] is not a function"
+    }
+  },
+  "OsnYUr1": {
+    "WNgcgT": {
+      "t": "object",
+      "v": "window"
+    },
+    "swzeYz": {
+      "t": "function",
+      "v": "function RegExp() { [native code] }"
+    },
+    "r1EaOw": {
+      "t": "function",
+      "v": "function clearInterval() { [native code] }"
+    },
+    "ScolMkJ": {
+      "t": "function",
+      "v": "function Error() { [native code] }"
+    },
+    "z1MOEi": {
+      "t": "function",
+      "v": "function clearTimeout() { [native code] }"
+    },
+    "EViaVC": {
+      "t": "object",
+      "v": "document"
+    },
+    "sDMQWDj": {
+      "t": "function",
+      "v": "function Object() { [native code] }"
+    },
+    "cgP6lZ4": {
+      "t": "function",
+      "v": "function parseInt() { [native code] }"
+    },
+    "kP1XId3": {
+      "t": "function",
+      "v": "function isNaN() { [native code] }"
+    },
+    "L1CdRZ": {
+      "t": "function",
+      "v": "function setTimeout() { [native code] }"
+    },
+    "OgdQl6": {
+      "t": "object",
+      "v": "console"
+    },
+    "QGyouoI": {
+      "t": "object",
+      "v": "Math"
+    },
+    "EjC867S": {
+      "t": "function",
+      "v": "function Array() { [native code] }"
+    },
+    "zB7whf": {
+      "t": "function",
+      "v": "function Response() { [native code] }"
+    },
+    "qlzd_e": {
+      "t": "object",
+      "v": "crypto"
+    },
+    "luGU5Q": {
+      "t": "function",
+      "v": "function TextEncoder() { [native code] }"
+    },
+    "De9ZZMs": {
+      "t": "function",
+      "v": "function Uint8Array() { [native code] }"
+    },
+    "t6tQq4": {
+      "t": "object",
+      "v": "JSON"
+    },
+    "gDjiCQ": {
+      "t": "object",
+      "v": "[Performance]"
+    },
+    "r4IwxM": {
+      "t": "function",
+      "v": "function Date() { [native code] }"
+    },
+    "ehzZyQN": {
+      "t": "function",
+      "v": "function AbortController() { [native code] }"
+    },
+    "xkTDz84": {
+      "t": "function",
+      "v": "function fetch() { [native code] }"
+    },
+    "cvRKVb": {
+      "t": "function",
+      "v": "function Promise() { [native code] }"
+    },
+    "o59juPu": {
+      "t": "object",
+      "v": "chrome"
+    },
+    "Dc2wKop": {
+      "t": "function",
+      "v": "function String() { [native code] }"
+    },
+    "zbZItz": {
+      "t": "function",
+      "v": "function parseFloat() { [native code] }"
+    },
+    "u23jZVk": {
+      "t": "function",
+      "v": "function FormData() { [native code] }"
+    },
+    "TOL7Q6D": {
+      "t": "function",
+      "v": "function File() { [native code] }"
+    },
+    "BUxqdNz": {
+      "t": "function",
+      "v": "function Boolean() { [native code] }"
+    },
+    "bOMpcUO": {
+      "t": "function",
+      "v": "function Set() { [native code] }"
+    },
+    "y2qLVm": {
+      "t": "function",
+      "v": "function Map() { [native code] }"
+    },
+    "O980f4m": {
+      "t": "function",
+      "v": "function atob() { [native code] }"
+    },
+    "Gl657d": {
+      "t": "function",
+      "v": "function Blob() { [native code] }"
+    },
+    "Dx8dfcw": {
+      "t": "object",
+      "v": "sessionStorage"
+    },
+    "w4cs7v": {
+      "t": "function",
+      "v": "function requestAnimationFrame() { [native code] }"
+    },
+    "xBAoL3J": {
+      "t": "function",
+      "v": "function getComputedStyle() { [native code] }"
+    },
+    "H9KGbl": {
+      "t": "function",
+      "v": "function setInterval() { [native code] }"
+    },
+    "JBOq8I": {
+      "t": "boolean",
+      "v": "true"
+    },
+    "cWUcUFX": {
+      "t": "function",
+      "v": "function MutationObserver() { [native code] }"
+    },
+    "N6TdXsh": {
+      "t": "function",
+      "v": "function Event() { [native code] }"
+    },
+    "AmXWjjw": {
+      "t": "object",
+      "v": "location"
+    }
+  }
+}
