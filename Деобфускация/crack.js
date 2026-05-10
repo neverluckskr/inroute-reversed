@@ -27,6 +27,11 @@ for (const file of files) {
     content = content.replace(/([a-zA-Z0-9_]+)\["Erxywh"\]/g, '(Array.isArray($1["Erxywh"]) ? $1["Erxywh"] : [])');
     content = content.replace(/([a-zA-Z0-9_]+)\["u4rSKs"\]/g, '(typeof $1["u4rSKs"] === "function" ? $1["u4rSKs"] : function(){})');
     
+    // Debugging wrapper for KdUsNxz (the function that matches AI answer to the DOM)
+    content = content.replace(/([a-zA-Z0-9_]+)\["KdUsNxz"\]\(([^,]+),\s*([^)]+)\)/g, 
+        '(window.lastAiAnswer=$2, window.lastDomMatch=$1["KdUsNxz"]($2, $3), console.log("[InRoute Debug] AI Answer:", window.lastAiAnswer, "\\nDOM Match:", window.lastDomMatch), window.lastDomMatch)'
+    );
+    
     if (file.type === "popup") {
         content = content.replace(
             /\(wcjgw_\.nJqAz3K\s*=\s*async\s+function\s+jb3COY\(\[uAuQa3C\],\s*LQn0JNs\)\s*\{/,
