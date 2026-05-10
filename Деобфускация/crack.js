@@ -20,6 +20,9 @@ for (const file of files) {
     
     content = content.replace(/if\s*\(\s*!window\["__SECURE__"\]\s*\)/g, 
         'if (false)');
+
+    content = content.replace(/Performance\["now"\]/g, 'performance["now"]');
+    content = content.replace(/Performance\.now/g, 'performance.now');
     
     if (file.type === "popup") {
         content = content.replace(
